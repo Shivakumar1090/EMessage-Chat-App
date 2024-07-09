@@ -1,0 +1,17 @@
+{
+    "users": {
+      "user1": {
+        "online": {
+          "displayName": "User One",
+          "online": true
+        }
+      },
+      "user2": {
+        "online": {
+          "displayName": "User Two",
+          "online": false
+        }
+      }
+    }
+  }
+  
